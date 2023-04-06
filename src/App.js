@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <div>React!</div>
+        <div className="App-link">React!</div>
       </header>
     </div>
   );
